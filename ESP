@@ -19,7 +19,7 @@ local ESP = {
         tracers = true,
         rainbow = false,
         textSize = 16,
-        tracerFrom = Vector2.new(Camera.ViewportSize.X / 2, Camera.ViewportSize.Y - 25),
+        tracerFrom = Vector2.new(Camera.ViewportSize.X / 2, Camera.ViewportSize.Y - 28),
         tracerThickness = 1,
     },
 }
